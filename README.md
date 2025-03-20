@@ -1,2 +1,2 @@
-# SpectralTroubleshooting
-Lecture: Single Color and Autofluorescence Troubleshooting
+# Lecture: Single Color and Autofluorescence Troubleshooting
+
